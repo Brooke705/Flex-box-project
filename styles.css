@@ -1,0 +1,68 @@
+div{
+    margin: 5px -4px
+}
+
+.top{
+    background-color: white;
+    display: flex;
+    padding: 10px;
+    border-bottom: 5px rgb(167, 160, 160);
+}
+
+.nav1{ 
+    background-color:white;
+    display:flex;
+    width: 450px;
+    font-family: ;
+    font-size:
+}
+
+.nav2{
+    background-color: white;
+    display:flex;
+    column-gap: 20px;
+    font-family: ;
+    font-size: ;
+}
+#tabs{
+    display: inline;
+}
+
+.middle{
+    display: flex;
+    background-color:white;
+}
+
+img{
+    height: 800px;
+    width: 1000px;
+}
+
+h1{
+    margin-right: 10px;
+    margin-bottom: 10px;
+    text-align:left;
+    font-family:Helvetica;
+    font-size: 59px; 
+}
+
+
+button {
+border:none;
+border-radius: 12px;
+padding: 10px;
+width: 130px;
+background-color: black;
+color: white;
+}
+.Description{
+    background-color:white;
+    margin-left: 55px;
+    margin-right: 30px;
+
+}
+p{
+     font-family: ;
+     font-size: ;
+
+}
